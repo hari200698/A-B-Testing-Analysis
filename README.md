@@ -23,7 +23,7 @@ Visualizing time spent on each step to identify efficiency improvements.
 
 ### 4. Error Rates and Step Abandonment Analysis
 Calculating error rates and step abandonment rates for each variation group.
-Visualizing error rates and step abandonment rates to assess the impact of the new design on user experience.
+Visualizing both of them to assess the impact of the new design on user experience.
 
 ### 5. Statistical Testing
 Conducting hypothesis testing to determine the statistical significance of observed differences.
